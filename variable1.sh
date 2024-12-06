@@ -1,6 +1,11 @@
 #!bin/bash
 
-echo "sunny: Hi mallesh,good morning"
-echo "mallesh: goodmorning,how are you"
-echo "sunny: goot,what about you"
-echo "mallesh: yaa good" 
+Person1=sunny
+Person2=mallesh
+
+
+echo "$Person1: Hi mallesh,good morning"
+echo "$Person2: goodmorning,how are you"
+echo "$Person1: goot,what about you"
+echo "$Person2: yaa good"
+ 
